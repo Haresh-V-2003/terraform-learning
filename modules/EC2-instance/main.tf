@@ -8,6 +8,6 @@ resource "aws_instance" "my_instance" {
   instance_type = "t2.micro"  # Set the instance type to t2.micro
 
   tags = {
-    Name = "my-ec2-instance"
+    Name = "hermex-ec2-instance"
   }
 }
