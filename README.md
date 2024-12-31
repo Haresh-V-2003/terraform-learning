@@ -18,3 +18,5 @@ A VPC with 2 public subnets and 2 private subnets and 2 NAT Gateways for the pub
 An EKS managed node group with autoscaling enabled that runs on t2.medium.<br>
 The autoscaling group scales between 2 and 10 nodes according to the CPU utilization.<br>
 A security group that allows the users to communicate with the cluster and configured it with fine-grained access<br>
+<br>
+The .github/workflows directory contains the code for triggering a GitHub actions pipeline for provisioning the infrastructure.
