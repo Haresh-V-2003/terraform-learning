@@ -1,11 +1,11 @@
 # AWS-Terraform-Infrastructure
 <br><br>
-Resources created:<br>
+<b>Resources created:<br>
 EKS Cluster<br>
 S3 Bucket<br>
 DynamoDB Table<br>
 EC2 Instance<br>
-
+</b>
 Before creating the cluster for deployment, move to the modules/S3-Bucket folder and use:<br>
 <b>terraform init</b><br>
 <b>terraform plan</b><br>
