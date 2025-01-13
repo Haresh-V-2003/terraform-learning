@@ -1,6 +1,6 @@
 # AWS-Terraform-Infrastructure
 <br><br>
-<b>Resources created:<br>
+<b>Resources created:</b><br>
 EKS Cluster<br>
 S3 Bucket<br>
 DynamoDB Table<br>
